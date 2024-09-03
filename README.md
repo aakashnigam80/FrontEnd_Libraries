@@ -34,6 +34,24 @@ LandBook - https://land-book.com/
 Behance - https://www.behance.net/  
 Awwwards - https://www.awwwards.com/   
 
+Applications with a UI that I think is good.
+
+Hubspot - https://www.hubspot.com/products/crm
+Jira - https://onitt.atlassian.net/jira/
+Notion - https://www.notion.so/c94a78886570465e8540e9c85b1ddc32
+Canva - https://www.canva.com/
+Docusign- https://trial.docusign.com/
+
+
+Applications Where I worked on- 
+
+Website- https://legittai.com/
+Legitt Lite Application - https://app.legittai.com/
+Legitt Lite Free Contract Templates - https://legittai.com/free-contract-templates
+-----AI Application-----
+AI Repository Analyzer -https://legittai.com/repo-analyzer (for Charts and graphs login application)
+
+
 
 Our Exciting New Idea: Influencer AI
 We are thrilled to introduce our latest project, Influencer AI. Here are some screenshots showcasing our progress:
