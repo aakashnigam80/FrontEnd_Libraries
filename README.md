@@ -33,3 +33,25 @@ dribble - https://dribbble.com/
 LandBook - https://land-book.com/  
 Behance - https://www.behance.net/  
 Awwwards - https://www.awwwards.com/   
+
+
+Our Exciting New Idea: Influencer AI
+We are thrilled to introduce our latest project, Influencer AI. Here are some screenshots showcasing our progress:
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/4596a14f-0a0a-496d-b83f-ca220f0ee320)
+![image](https://github.com/user-attachments/assets/3e01a52f-5282-4abb-90a1-c64d5e7471aa)
+![image](https://github.com/user-attachments/assets/0af10a86-18cb-47cf-827a-80b030b6ce88)
+![image](https://github.com/user-attachments/assets/26f367ef-f3f7-4302-aa48-0f48978f4ce8)
+
+
+
+
+
+
+
+
+
